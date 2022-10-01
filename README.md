@@ -12,7 +12,7 @@
   <h2 align="center">Modern and Delightful HTTP Debugging Proxy for Windows ⚡️</h2>
 </p>
 
-<img width="1609" alt="Proxyman for Windows" src="https://user-images.githubusercontent.com/5878421/186094795-2401f721-1db7-4ace-839e-0a9cfe74d0ea.png">
+![Proxyman for Windows 11](https://user-images.githubusercontent.com/5878421/193379597-83a23bf3-2b4d-44bb-b3d8-000cefbbffdb.jpg)
 
 ## Features
 * ✅ Intercept HTTP/HTTPS requests/response with easy. Generate, trust a certificate, and automatically override the System Proxy is never easier. 
