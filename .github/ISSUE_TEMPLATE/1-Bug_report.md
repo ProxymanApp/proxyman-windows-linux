@@ -7,18 +7,8 @@ labels: 'bug'
 ## Description
 <!--- Description for the bug? -->
 
-## Expected Behavior
-
-<!--- What should have happened? -->
-
-## Current Behavior
-
-<!--- What went wrong? -->
-
 ## Steps to Reproduce
-
 <!-- Add relevant code and/or a live example -->
-<!-- Add stack traces -->
 
 1.
 
@@ -27,6 +17,12 @@ labels: 'bug'
 3.
 
 4.
+
+## Current Behavior
+<!--- What went wrong? -->
+
+## Expected Behavior
+<!--- What should have happened? -->
 
 ## Environment
 
