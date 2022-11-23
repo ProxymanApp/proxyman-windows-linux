@@ -30,7 +30,7 @@
 - AppStore: https://apps.apple.com/us/app/proxyman/id1551292695
 
 ## Download
-* [Latest build - 0.6.0](https://proxyman.io/release/windows/Proxyman_latest.dmg)
+* [Latest build - 0.8.0](https://proxyman.io/release/windows/Proxyman_latest.dmg)
 * [Build History](https://proxyman.io/changelog-windows)
 
 ## Have a problem?
