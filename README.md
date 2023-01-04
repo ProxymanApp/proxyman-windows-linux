@@ -1,4 +1,4 @@
-# Proxyman for Windows (BETA)
+# Proxyman for Windows
 <p align="center">
   <a aria-label="Follow Proxyman on Twitter" href="https://twitter.com/proxyman_app">
     <img alt="" src="https://img.shields.io/badge/Follow-%40proxyman__app-black.svg?style=for-the-badge&logo=Twitter">
@@ -30,7 +30,7 @@
 - AppStore: https://apps.apple.com/us/app/proxyman/id1551292695
 
 ## Download
-* [Latest build - 0.10.0](https://proxyman.io/release/windows/Proxyman_latest.dmg)
+* [Latest build - 1.0.0](https://proxyman.io/release/windows/Proxyman_latest.dmg)
 * [Build History](https://proxyman.io/changelog-windows)
 
 ## Have a problem?
