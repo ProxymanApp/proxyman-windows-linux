@@ -20,6 +20,7 @@
 * ✅ Fully support Windows 10 and Windows 11
 * 🔍 Content Filter (URL, Header, Query, Body) 
 * ℹ️ SSL Proxying List, No Caching
+* 🛠 Debugging Tools: Map Local, Breakpoint, etc
 * 🛠 Active development. Our roadmap at https://github.com/ProxymanApp/proxyman-windows-linux/projects/1
  
 ### Proxyman for macOS
@@ -30,7 +31,7 @@
 - AppStore: https://apps.apple.com/us/app/proxyman/id1551292695
 
 ## Download
-* [Latest build - 1.5.0](https://proxyman.io/release/windows/Proxyman_latest.dmg)
+* [Latest build - 1.6.0](https://proxyman.io/release/windows/Proxyman_latest.dmg)
 * [Build History](https://proxyman.io/changelog-windows)
 
 ## Have a problem?
