@@ -15,7 +15,7 @@
 ![Proxyman for Windows 11](https://user-images.githubusercontent.com/5878421/193379597-83a23bf3-2b4d-44bb-b3d8-000cefbbffdb.jpg)
 
 ## Features
-* ✅ Intercept HTTP/HTTPS requests/response with easy. Generate, trust a certificate, and automatically override the System Proxy is never easier. 
+* ✅ Intercept HTTP/HTTPS requests/responses with easy. Generating, trusting a certificate, and automatically overriding the System Proxy is never easier. 
 * ✅ Modern and intuitive UI
 * ✅ Fully support Windows 10 and Windows 11
 * 🔍 Content Filter (URL, Header, Query, Body) 
@@ -24,14 +24,14 @@
 * 🛠 Active development. Our roadmap at https://github.com/ProxymanApp/proxyman-windows-linux/projects/1
  
 ### Proxyman for macOS
-- You're a macOS users? Try our a native macOS build at https://github.com/ProxymanApp/Proxyman
+- You're a macOS user? Try our native macOS build at https://github.com/ProxymanApp/Proxyman
 
 ### Proxyman for iOS
 - Screenshot: https://proxyman.io/ios
 - AppStore: https://apps.apple.com/us/app/proxyman/id1551292695
 
 ## Download
-* [Latest build - 1.8.1](https://proxyman.io/release/windows/Proxyman_latest.dmg)
+* [Latest build - 1.9.1](https://proxyman.io/release/windows/Proxyman_latest.dmg)
 * [Build History](https://proxyman.io/changelog-windows)
 
 ## Have a problem?
@@ -42,7 +42,7 @@
 
 ---
 
-Proxyman is developed by a small engineer team, but we're dedicated to shipping Proxyman that tailors for each platform (macOS, iOS, and Windows). It facilitates how we debug apps and bring joyfulness and pleasure to all developers.
+Proxyman is developed by a small engineering team, but we're dedicated to shipping Proxyman that tailors for each platform (macOS, iOS, and Windows). It facilitates how we debug apps and bring joy and pleasure to all developers.
 
 We're genuinely happy if you purchase a license to support the development ❤️
 
