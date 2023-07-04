@@ -15,7 +15,7 @@
 ![Proxyman for Windows 11](https://user-images.githubusercontent.com/5878421/193379597-83a23bf3-2b4d-44bb-b3d8-000cefbbffdb.jpg)
 
 ## Features
-* ✅ Intercept HTTP/HTTPS requests/responses with easy. Generating, trusting a certificate, and automatically overriding the System Proxy is never easier. 
+* ✅ Intercept HTTP/HTTPS requests/responses with ease. Generating, trusting a certificate, and automatically overriding the System Proxy is never easier. 
 * ✅ Modern and intuitive UI
 * ✅ Fully support Windows 10 and Windows 11
 * 🔍 Content Filter (URL, Header, Query, Body) 
@@ -31,12 +31,12 @@
 - AppStore: https://apps.apple.com/us/app/proxyman/id1551292695
 
 ## Download
-* [Latest build - 1.9.1](https://proxyman.io/release/windows/Proxyman_latest.dmg)
+* [Latest build - 1.9.2](https://proxyman.io/release/windows/Proxyman_latest.dmg)
 * [Build History](https://proxyman.io/changelog-windows)
 
 ## Have a problem?
 
-- Open Github ticket
+- Open GitHub ticket
 - Technical issues on [![Gitter](https://badges.gitter.im/Proxyman-app/community.svg)](https://gitter.im/Proxyman-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 - nghia@proxyman.io & support@proxyman.io
 
