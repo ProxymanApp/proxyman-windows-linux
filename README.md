@@ -29,7 +29,7 @@
 
 ## Download Windows
 * [Windows - Latest build - 2.11.1](https://proxyman.io/release/windows/Proxyman_latest.dmg)
-* [Linux - Latest build - 2.11.0](https://proxyman.io/release/linux/proxyman_latest)
+* [Linux - Latest build - 2.11.1](https://proxyman.io/release/linux/proxyman_latest)
 * [Build History](https://proxyman.io/changelog-windows)
 
 ## Have a problem?
