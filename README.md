@@ -18,7 +18,7 @@
 * ✅ Intercept HTTP/HTTPS requests/responses with ease. Generating, trusting a certificate, and automatically overriding the System Proxy is never easier. 
 * ✅ Modern and intuitive UI
 * ✅ Fully support Windows 10 and Windows 11
-* ✅ (Beta) Support Ubuntu 22 or later.
+* ✅ Support Ubuntu 22 or later.
 * 🔍 Multiple Filters (URL, Header, Query, Body, etc) and Content-Type Filter (JSON, Form, XML, Image, etc) 
 * ℹ️ SSL Proxying List, No Caching, Compose & Repeat, Repeat
 * 🛠 Debugging Tools: Map Local, Breakpoint, Diff, Scripting, Block List, Allow List, etc
@@ -28,8 +28,8 @@
 - You're a macOS user? Try our native macOS build at https://github.com/ProxymanApp/Proxyman
 
 ## Download Windows
-* [Windows - Latest build - 2.11.1](https://proxyman.io/release/windows/Proxyman_latest.dmg)
-* [Linux - Latest build - 2.11.1](https://proxyman.io/release/linux/proxyman_latest)
+* [Windows - Latest build - 2.12.0](https://proxyman.io/release/windows/Proxyman_latest.dmg)
+* [Linux - Latest build - 2.12.0](https://proxyman.io/release/linux/proxyman_latest)
 * [Build History](https://proxyman.io/changelog-windows)
 
 ## Have a problem?
