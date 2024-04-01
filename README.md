@@ -28,8 +28,8 @@
 - You're a macOS user? Try our native macOS build at https://github.com/ProxymanApp/Proxyman
 
 ## Download Windows
-* [Windows - Latest build - 2.12.0](https://proxyman.io/release/windows/Proxyman_latest.dmg)
-* [Linux - Latest build - 2.12.0](https://proxyman.io/release/linux/proxyman_latest)
+* [Windows - Latest build - 2.13.0](https://proxyman.io/release/windows/Proxyman_latest.dmg)
+* [Linux - Latest build - 2.13.0](https://proxyman.io/release/linux/proxyman_latest)
 * [Build History](https://proxyman.io/changelog-windows)
 
 ## Have a problem?
