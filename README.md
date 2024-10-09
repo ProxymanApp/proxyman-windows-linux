@@ -35,7 +35,7 @@
 ## Have a problem?
 
 - Open the GitHub ticket
-- Technical issues on [![Gitter](https://badges.gitter.im/Proxyman-app/community.svg)](https://gitter.im/Proxyman-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+- Technical issues on [Proxyman Discord](https://discord.gg/tjWEq6Da42)
 - nghia@proxyman.io & support@proxyman.io
 
 ---
