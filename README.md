@@ -3,9 +3,6 @@
   <a aria-label="Follow Proxyman on Twitter" href="https://twitter.com/proxyman_app">
     <img alt="" src="https://img.shields.io/badge/Follow-%40proxyman__app-black.svg?style=for-the-badge&logo=Twitter">
   </a>
-  <a aria-label="Join the community on Gitter" href="https://gitter.im/Proxyman-app/community">
-    <img alt="" src="https://img.shields.io/badge/Join-the%20community-black.svg?style=for-the-badge&logo=Gitter">
-  </a>
 </p>
 
 <p align="center">
@@ -28,15 +25,15 @@
 - You're a macOS user? Try our native macOS build at https://github.com/ProxymanApp/Proxyman
 
 ## Download Windows
-* [Windows - Latest build - 2.19.0](https://proxyman.io/release/windows/Proxyman_latest.dmg)
-* [Linux - Latest build - 2.19.0](https://proxyman.io/release/linux/proxyman_latest)
-* [Build History](https://proxyman.io/changelog-windows)
+* [Windows - Latest build - 2.20.0](https://proxyman.com/release/windows/Proxyman_latest.dmg)
+* [Linux - Latest build - 2.20.0](https://proxyman.com/release/linux/proxyman_latest)
+* [Build History](https://proxyman.com/changelog-windows)
 
 ## Have a problem?
 
 - Open the GitHub ticket
 - Technical issues on [Proxyman Discord](https://discord.gg/tjWEq6Da42)
-- nghia@proxyman.io & support@proxyman.io
+- nghia@proxyman.io & support@proxyman.com
 
 ---
 
