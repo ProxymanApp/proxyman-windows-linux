@@ -24,7 +24,7 @@
 ### Proxyman for macOS
 - You're a macOS user? Try our native macOS build at https://github.com/ProxymanApp/Proxyman
 
-## Download Windows
+## Download
 * [Windows - Latest build - 2.27.0](https://proxyman.com/release/windows/Proxyman_latest.dmg)
 * [Linux - Latest build - 2.27.0](https://proxyman.com/release/linux/proxyman_latest)
 * [Build History](https://proxyman.com/changelog-windows)
