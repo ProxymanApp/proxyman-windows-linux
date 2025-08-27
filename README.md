@@ -7,9 +7,10 @@
 
 <p align="center">
   <h2 align="center">Modern and Delightful HTTP Debugging Proxy for Windows and Linux ⚡️</h2>
+  <h3 align="center">Proxyman is a modern and delightful HTTP debugging proxy for Windows and Linux. It allows you to intercept, inspect, and modify HTTP/HTTPS requests and responses with ease. It's a powerful tool for developers and testers to debug web applications and APIs.</h3>
 </p>
 
-![Proxyman for Windows 11](https://user-images.githubusercontent.com/5878421/193379597-83a23bf3-2b4d-44bb-b3d8-000cefbbffdb.jpg)
+![Proxyman for Windows 11](./assets/Windows_dashboard_v3.jpeg)
 
 ## Features
 * ✅ Intercept HTTP/HTTPS requests/responses with ease. Generating, trusting a certificate, and automatically overriding the System Proxy has never been easier. 
